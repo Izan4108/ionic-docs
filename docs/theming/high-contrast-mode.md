@@ -241,5 +241,5 @@ The **class** high contrast palette behaves in the following ways:
 3. Setting variables for the high contrast palette on `md` devices using the `.ion-palette-high-contrast.md` selector.
 
 </TabItem>
-
+</TabItem>
 </Tabs>
